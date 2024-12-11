@@ -8,7 +8,7 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.rvrhl.tlssigexe
+        bundle_identifier: com.sctaca.htlksdqwzz
       vars:
         BUNDLE_ID: "com.sctaca.htlksdqwzz"
         XCODE_WORKSPACE: "Nova Scotia Hotels Quiz.xcodeproj/project.xcworkspace"
